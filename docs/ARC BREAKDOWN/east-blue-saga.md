@@ -8,99 +8,89 @@ metadata:
 <br />
 
 <ArcCard
-  name="Alabasta Saga"
-  episodes="Episodes 62 to 130"
-  skip="Episodes 98-99, 102 are filler"
-  vibe="Epic, emotional, high stakes adventure"
-  music="Believe, We Are (Version 2)"
-  animation="Classic Toei — improving steadily"
-  difficulty="Medium — the stakes get real here"
-  tease="The first time One Piece shows you 
-exactly how big this story is going to get."
+  name="East Blue Saga"
+  episodes="Episodes 1 to 61"
+  skip="None — watch everything"
+  vibe="Lighthearted, funny, foundational"
+  music="We Are, Believe"
+  animation="Classic Toei — thick lines, 
+flat colors, full of charm"
+  difficulty="Easy — perfect starting point"
+  tease="This is where it all begins. 
+Every nakama you will love starts here."
 />
 
-The <Glossary>Alabasta Saga</Glossary> is where
-One Piece stops being a fun adventure story
-and becomes something genuinely epic.
+The <Glossary>East Blue Saga</Glossary> is where
+everything begins. Meet every core member
+of the <Glossary>straw hat pirates</Glossary> and
+discover exactly why each one chose to follow
+a boy made of rubber into the most dangerous
+sea in the world.
 
-You will meet one of the most beloved characters
-in the series. You will encounter your first
-real villain. You will understand for the first
-time what the <Glossary>grand line</Glossary>
-actually means.
-
-By the end of this saga most viewers are
-completely hooked. There is no going back
-after Alabasta.
+Do not let the older animation discourage you.
+The storytelling more than makes up for it.
 
 ## What Happens Here
 
 No spoilers — here is what matters:
 
-The crew enters the <Glossary>grand line</Glossary>
-for the first time. A kingdom is in crisis.
-A friend needs help. The <Glossary>straw hat
-pirates</Glossary> show up anyway.
+Every character you meet in East Blue has a dream.
+Every dream has a cost. Every cost has a story.
 
-That is One Piece in a sentence.
+By the time this saga ends you will understand
+exactly what kind of show One Piece is.
 
 ## Key Episodes
 
-**Episode 62** — The Grand Line begins.
-Everything changes here.
+**Episode 1** — Where it all begins.
+Meet Luffy. Understand the dream.
 
-**Episode 92** — Drum Island starts.
-One of the most emotionally satisfying
-arcs in the entire saga. Do not skip it.
+**Episode 3** — Meet the first crew member.
+This episode sets the emotional tone for
+the entire series.
 
-**Episode 110** — Alabasta begins properly.
-The scale of what Oda is building
-starts becoming clear.
+**Episode 31** — Arlong Park begins.
+This is where One Piece stops being
+a fun pirate show and becomes something more.
 
-**Episode 128 to 130** — The conclusion.
-Some of the most memorable scenes
-in early One Piece. Watch unspoiled.
+**Episode 44** — The moment One Piece fans
+never forget. It redefines the entire crew's
+bond and delivers the saga's emotional climax.
 
 <Callout icon="🚨" theme="default">
-  Episodes 128 to 130 contain moments that
-  fans still talk about decades later.
-  Go in blind.
+  No spoilers here. Episode 44 earns its
+  reputation. Watch it unspoiled.
 </Callout>
 
 ## Episodes To Skip
 
-Episodes 98, 99, and 102 are
-<Glossary>filler</Glossary>. Safe to skip.
+None. Watch every episode in East Blue.
 
-Everything else is
-<Glossary>manga canon</Glossary>.
+This saga has no <Glossary>filler</Glossary>.
+Every episode is <Glossary>manga canon</Glossary>.
 
 ## Featured Music
 
-**Believe** — Captures the growing scale
-of the adventure perfectly.
+**We Are** — The iconic opening theme.
+You will have it stuck in your head forever.
+This is not a warning. This is a promise.
 
-**We Are (Version 2)** — A more epic
-arrangement of the iconic opening.
+**Believe** — The second opening theme.
+Arrives just as the adventure starts
+getting bigger.
 
-**Run! Run! Run!** — The Alabasta
-arc theme. You will remember it.
+**Memories** — The first ending theme.
+Soft, nostalgic, perfect.
 
 ## Movies That Fit Here
 
-**Chopper's Kingdom on the Island
-of Strange Animals (2002)**
-Watch after Episode 130.
+**One Piece: The Movie (2000)**
+Watch after Episode 18.
 <Glossary>non-canon</Glossary> but fun.
 
-**The Desert Princess and the Pirates:
-Adventures in Alabasta (2007)**
-Watch after Episode 130.
-A retelling of this saga with
-updated animation. Watch the
-original first.
-
-***
+**Clockwork Island Adventure (2001)**
+Watch after Episode 53.
+<Glossary>non-canon</Glossary> but fun.
 
 ## Read After You Watch
 
