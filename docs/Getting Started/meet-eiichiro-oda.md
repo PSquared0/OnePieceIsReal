@@ -23,8 +23,8 @@ writing it.
 | **Born**                  | January 1, 1975                |
 | **Hometown**              | Kumamoto, Japan                |
 | **One Piece started**     | 1997                           |
-| **Volumes published**     | 107+                           |
-| **Copies in circulation** | 500 million+                   |
+| **Volumes published**     | 110+                           |
+| **Copies in circulation** | 600 million+                   |
 | **Ranking**               | Best selling manga of all time |
 
 ## His Family
