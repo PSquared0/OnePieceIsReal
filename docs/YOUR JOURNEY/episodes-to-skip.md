@@ -4,11 +4,6 @@ deprecated: false
 hidden: false
 metadata:
   robots: index
-next:
-  pages:
-    - slug: movie-guide
-      title: Movie Guide
-      type: basic
 ---
 # Episodes To Skip 🏴‍☠️
 
