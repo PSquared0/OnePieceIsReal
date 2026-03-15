@@ -5,8 +5,6 @@ hidden: false
 metadata:
   robots: index
 ---
-<br />
-
 <ArcCard
   name="Wano Country Saga"
   episodes="Episodes 892 to 1085"
