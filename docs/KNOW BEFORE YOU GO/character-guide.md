@@ -1,5 +1,5 @@
 ---
-title: Character Guide
+title: '# Character Guide 🏴‍☠️'
 deprecated: false
 hidden: false
 metadata:
