@@ -102,8 +102,6 @@ original first.
 
 ***
 
-## Read After You Watch
-
 <Spoiler />
 
 <br />
