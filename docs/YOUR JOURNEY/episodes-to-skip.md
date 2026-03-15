@@ -6,8 +6,8 @@ metadata:
   robots: index
 next:
   pages:
-    - slug: episodes-to-skip
-      title: Episodes To Skip
+    - slug: movie-guide
+      title: Movie Guide
       type: basic
 ---
 # Episodes To Skip 🏴‍☠️
