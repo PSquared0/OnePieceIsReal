@@ -6,8 +6,6 @@ hidden: false
 metadata:
   robots: index
 ---
-<br />
-
 <Accordion title="The Basics">
   **What even is One Piece?**
 
