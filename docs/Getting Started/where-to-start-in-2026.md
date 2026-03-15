@@ -4,6 +4,11 @@ deprecated: false
 hidden: false
 metadata:
   robots: index
+next:
+  pages:
+    - slug: meet-eiichiro-oda
+      title: Meet Eiichiro Oda
+      type: basic
 ---
 You have more entry points into One Piece in 2026
 than any previous generation of fans.
