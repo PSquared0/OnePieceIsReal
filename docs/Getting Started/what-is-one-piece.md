@@ -4,11 +4,6 @@ deprecated: false
 hidden: false
 metadata:
   robots: index
-next:
-  pages:
-    - slug: where-to-start-in-2026
-      title: Where To Start in 2026
-      type: basic
 ---
 One Piece is a Japanese manga and anime series created by
 **Eiichiro Oda** in 1997. It is the best selling manga of
