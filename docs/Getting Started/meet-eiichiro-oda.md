@@ -4,6 +4,11 @@ deprecated: false
 hidden: false
 metadata:
   robots: index
+next:
+  pages:
+    - slug: watch-order
+      title: Watch Order
+      type: basic
 ---
 This page covers the life, career, and creative process of the manga artist behind One Piece — essential context for understanding the story's depth and consistency.
 
