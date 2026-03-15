@@ -1,5 +1,5 @@
 ---
-title: ' Meet Eiichiro Oda'
+title: Meet Eiichiro Oda
 deprecated: false
 hidden: false
 metadata:
