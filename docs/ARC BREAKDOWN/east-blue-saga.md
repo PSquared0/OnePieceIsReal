@@ -92,8 +92,6 @@ Watch after Episode 18.
 Watch after Episode 53.
 <Glossary>non-canon</Glossary> but fun.
 
-## Read After You Watch
-
 <Spoiler />
 
 <br />
